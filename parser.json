@@ -1,7 +1,7 @@
 {
   "lang": "tablegen",
-  "location": null,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-tablegen",
   "semver": false,
-  "parser_version": "b1170880c61355aaf38fc06f4af7d3c55abdabc4"
+  "parser_version": "b1170880c61355aaf38fc06f4af7d3c55abdabc4",
+  "location": null
 }
